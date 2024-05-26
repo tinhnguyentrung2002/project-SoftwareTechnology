@@ -208,13 +208,11 @@
 -	Thống kê khách hàng: là chức năng hiển thị các khách hàng đã mua.
 
 
-
 ![Hình 11. Giao diện Form thống kê khách hàng](images/11.jpg)
 
    Hình 11. Giao diện Form thống kê khách hàng
    
 -	Thống kê sản phẩm: là chức năng hiển thị các chỉ tiêu hàng hóa từng ngày, từng tháng.
-
 
 
 ![Hình 12. Giao diện Form thống kê sản phẩm](images/12.jpg)
@@ -223,20 +221,14 @@
    
 -	Thống kê hóa đơn: là chức năng hiển thị các hóa đơn từng khách hàng đã mua các sản phẩm từ cửa hàng.
 
-  
 
 ![Hình 13. Giao diện Form thống kê hóa đơn](images/13.jpg)
 
     Hình 13. Giao diện Form thống kê hoá đơn
 
     
-    
 -	Xuất file Excel: là chức năng sẽ xuất ra file Excel của từng chức năng thống kê như trên và đưa file thống kê vào thư điện tử của quản lý cửa hàng.
 
 ![Hình 14. Giao diện xuất File Excel thống kê](images/14.jpg)
 
     Hình 14. Giao diện xuất file Excel thống kê
-
-
-
-
