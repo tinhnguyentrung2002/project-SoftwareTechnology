@@ -84,6 +84,7 @@
      tạo qua phần mềm của chúng tôi đề trải nghiệm ứng dụng.
 
 ![Hình 3. Giao diện Form Trang chủ][images/3.jpg]
+
     ❖ Phía bên phải Form trang chủ gồm:
 -	Tên đăng nhập, quyền (chức vụ).
 -	Mục chỉ tiêu từng tháng trong năm. - Thời gian, Lịch.
@@ -103,6 +104,7 @@
      5.4. Giao diện Form Quản lý sản phẩm
 
 ![Hình 4. Giao diện Form Quản lý sản phẩm](images/4.jpg)
+
 ❖ Quản lý sản phẩm có những chức năng sau:
 -	Danh Mục từng sản phẩm.
 -	Số thứ tự sản phẩm lá sắp xếp thứ tự các sản phẩm
@@ -157,7 +159,6 @@
 
 ![Hình 8. Giao diện Form Chi tiết hóa đơn](images/8.jpg)
 
-
 ❖ Quản lý chi tiết hóa đơn gồm các mục như sau:
 ➢	Lưu lại các thông tin cần thiết trên giao diện form hóa đơn.
 ➢	Thông tin chi tiết hóa đơn: Mã chi tiết hóa đơn, mã hóa đơn, mã sản phẩm, tên sản phẩm, số lượng, đơn giá, thành tiền và bảng danh sách chi tiết hóa đơn.
@@ -174,15 +175,19 @@
 -	Thống kê nhân viên: là chức năng hiển thị các nhân viên.
 
 ![Hình 10. Giao diện Form thống kê nhân viên](images/10.jpg)
+
 -	Thống kê khách hàng: là chức năng hiển thị các khách hàng đã mua.
 
 ![Hình 11. Giao diện Form thống kê khách hàng](images/11.jpg)
+
 -	Thống kê sản phẩm: là chức năng hiển thị các chỉ tiêu hàng hóa từng ngày, từng tháng.
 
 ![Hình 12. Giao diện Form thống kê sản phẩm](images/12.jpg)
+
 -	Thống kê hóa đơn: là chức năng hiển thị các hóa đơn từng khách hàng đã mua các sản phẩm từ cửa hàng.
 
 ![Hình 13. Giao diện Form thống kê hóa đơn](images/13.jpg)
+
 -	Xuất file Excel: là chức năng sẽ xuất ra file Excel của từng chức năng thống kê như trên và đưa file thống kê vào thư điện tử của quản lý cửa hàng.
 
 ![Hình 14. Giao diện xuất File Excel thống kê](images/14.jpg)
