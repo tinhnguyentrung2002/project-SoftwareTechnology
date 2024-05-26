@@ -192,7 +192,7 @@
       4. Cập nhật lại các thông tin chi tiết hóa đơn mà mình muốn sửa lại. - Khởi tạo một thông tin chi tiết hóa đơn mới.
       5. Lưu thông tin mã hóa đơn, sản phẩm, số lượng, đơn giá, thành tiền vào danh sách chi tiết hóa đơn.
 
-    # Giao diện Form Báo cáo, thống kê
+   # Giao diện Form Báo cáo, thống kê
 ![Hình 9. Giao diện Form Báo cáo, thống kê](images/9.jpg)
 
    Hình 9. Giao diện Form Báo cáo, thống kê
@@ -200,11 +200,14 @@
 -  Quản lý thống kê gồm các những chức năng như sau:
   + Thống kê nhân viên: là chức năng hiển thị các nhân viên.
 
+
 ![Hình 10. Giao diện Form thống kê nhân viên](images/10.jpg)
 
    Hình 10. Giao diện Form thống kê nhân viên
    
 -	Thống kê khách hàng: là chức năng hiển thị các khách hàng đã mua.
+
+
 
 ![Hình 11. Giao diện Form thống kê khách hàng](images/11.jpg)
 
@@ -212,15 +215,21 @@
    
 -	Thống kê sản phẩm: là chức năng hiển thị các chỉ tiêu hàng hóa từng ngày, từng tháng.
 
+
+
 ![Hình 12. Giao diện Form thống kê sản phẩm](images/12.jpg)
 
    Hình 12. Giao diện Form thống kê sản phẩm
    
 -	Thống kê hóa đơn: là chức năng hiển thị các hóa đơn từng khách hàng đã mua các sản phẩm từ cửa hàng.
 
+  
+
 ![Hình 13. Giao diện Form thống kê hóa đơn](images/13.jpg)
 
     Hình 13. Giao diện Form thống kê hoá đơn
+
+    
     
 -	Xuất file Excel: là chức năng sẽ xuất ra file Excel của từng chức năng thống kê như trên và đưa file thống kê vào thư điện tử của quản lý cửa hàng.
 
