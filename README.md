@@ -1,4 +1,4 @@
-# Mô tả cơ sở dữ liệu
+# Mô tả cơ sở dữ liệu (SQL Server)
 1.Bảng Cấp phát ID
 
 | Tên    | Kiểu dữ liệu | Mô tả               |
