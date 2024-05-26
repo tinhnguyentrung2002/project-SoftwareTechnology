@@ -82,7 +82,8 @@
 
 ![Hình 2. Giao diện Form Đăng ký](images/2.jpg)
 
-      Hình 2. Giao diện Form Đăng ký
+     Hình 2. Giao diện Form Đăng ký
+     
 -	Giao diện đăng ký thường đầy đủ thông tin cá nhân như số điện thoại, gmail, tên đăng nhập, ngày sinh,... để việc đăng nhập hay tra cứu thông tin một cách dễ dàng và phân biệt giữa nhiều tài khoản khác nhau.
 -	Sau khi đăng ký tài khoản xong, bạn có thể đăng nhập tài khoản của bạn đã
      tạo qua phần mềm của chúng tôi đề trải nghiệm ứng dụng.
@@ -116,6 +117,7 @@
 ![Hình 4. Giao diện Form Quản lý sản phẩm](images/4.jpg)
 
       Hình 4. Giao diện Form Quản lý sản phẩm
+      
 - Quản lý sản phẩm có những chức năng sau:
    + Danh Mục từng sản phẩm.
    + Số thứ tự sản phẩm lá sắp xếp thứ tự các sản phẩm
@@ -131,6 +133,7 @@
 ![Hình 5. Giao diện Form Quản lý nhân viên](images/5.jpg)
 
       Hình 5. Giao diện Form Quản lý nhân viên
+      
 - Quản lý nhân viên gồm những mục sau:
    + 	Thông tin nhân viên gồm có: Mã nhân viên, số điện thoại, họ tên nhân viên, ngày sinh nhân viên, giới tính, email, địa chỉ, chức vụ và bảng danh sách nhân viên.
    + 	Quản lý chức năng thông tin nhân viên:
@@ -145,6 +148,7 @@
 ![Hình 6. Giao diện Form Quản lý khách hàng](images/6.jpg)
 
        Hình 6. Giao diện Form Quản lý khách hàng
+       
 - Quản lý khách hàng gồm có mục như sau:
    + 	Thông tin khách hàng: Họ tên khách hàng, số điện thoại, giới tính, địa chỉ khách hàng và bảng danh sách khách hàng.
    + 	Quản lý chức năng thông tin khách hàng:
@@ -160,6 +164,7 @@
 ![Hình 7. Giao diện Form Quản lý hóa đơn](images/7.jpg)
 
    Hình 7. Giao diện Form Quản lý hoá đơn
+   
 - Quản lý Hóa Đơn gồm có mục như sau:
    + Thông tin hóa đơn: Mã hóa đơn, mã nhân viên, mã khách hàng, ngày xuất hóa đơn, Tổng tiền và bảng danh sách hóa đơn.
    + Quản lý chức năng thông tin hóa đơn:
@@ -176,6 +181,7 @@
 ![Hình 8. Giao diện Form Chi tiết hóa đơn](images/8.jpg)
 
    Hình 8. Giao diện Form Chi tiết hoá đơn
+   
 - Quản lý chi tiết hóa đơn gồm các mục như sau:
    + Lưu lại các thông tin cần thiết trên giao diện form hóa đơn.
    + Thông tin chi tiết hóa đơn: Mã chi tiết hóa đơn, mã hóa đơn, mã sản phẩm, tên sản phẩm, số lượng, đơn giá, thành tiền và bảng danh sách chi tiết hóa đơn.
@@ -190,27 +196,32 @@
 ![Hình 9. Giao diện Form Báo cáo, thống kê](images/9.jpg)
 
    Hình 9. Giao diện Form Báo cáo, thống kê
+   
 -  Quản lý thống kê gồm các những chức năng như sau:
   + Thống kê nhân viên: là chức năng hiển thị các nhân viên.
 
 ![Hình 10. Giao diện Form thống kê nhân viên](images/10.jpg)
 
    Hình 10. Giao diện Form thống kê nhân viên
+   
 -	Thống kê khách hàng: là chức năng hiển thị các khách hàng đã mua.
 
 ![Hình 11. Giao diện Form thống kê khách hàng](images/11.jpg)
 
    Hình 11. Giao diện Form thống kê khách hàng
+   
 -	Thống kê sản phẩm: là chức năng hiển thị các chỉ tiêu hàng hóa từng ngày, từng tháng.
 
 ![Hình 12. Giao diện Form thống kê sản phẩm](images/12.jpg)
 
    Hình 12. Giao diện Form thống kê sản phẩm
+   
 -	Thống kê hóa đơn: là chức năng hiển thị các hóa đơn từng khách hàng đã mua các sản phẩm từ cửa hàng.
 
 ![Hình 13. Giao diện Form thống kê hóa đơn](images/13.jpg)
 
     Hình 13. Giao diện Form thống kê hoá đơn
+    
 -	Xuất file Excel: là chức năng sẽ xuất ra file Excel của từng chức năng thống kê như trên và đưa file thống kê vào thư điện tử của quản lý cửa hàng.
 
 ![Hình 14. Giao diện xuất File Excel thống kê](images/14.jpg)
